@@ -1,15 +1,15 @@
 # ¡Hola, soy Leandro Murquite! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Leandro%20Murquite&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Tecnicatura%20Superior%20en%20Desarrollo%20de%20Software%20|%20EDI2&descAlignY=62&descSize=18" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Leandro%20Murquite&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Tecnicatura%20Superior%20en%20Desarrollo%20de%20Software%20|%20Full%20Stack%20Developer&descAlignY=62&descSize=18" alt="Header Banner" width="100%" />
 </p>
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 **Carrera:** Estudiante de la **Tecnicatura Superior en Desarrollo de Software**.
-- 📚 **Materia actual:** Cursando **EDI2** (Espacio de Definición Institucional 2).
-- 🎯 **Perfil técnico:** Enfocado en desarrollo **Full Stack** (Backend sólido en Java y PHP/Laravel, Frontend interactivo con React y Three.js).
+- 🎓 **Formación:** Estudiante de la **Tecnicatura Superior en Desarrollo de Software**.
+- 🎯 **Perfil técnico:** Enfocado en desarrollo **Full Stack** (Backend sólido en Java y PHP/Laravel, Frontend interactivo con React).
 - 🚀 **Objetivo:** Aplicar buenas prácticas de diseño de software, arquitecturas escalables y desarrollo de soluciones integrales web y móviles.
+- 💡 **Intereses:** Arquitectura limpia, desarrollo móvil y aprendizaje continuo de nuevas tecnologías.
 
 ---
 
