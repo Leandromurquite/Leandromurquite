@@ -71,5 +71,30 @@ Tecnologías que estoy incorporando activamente y profundizando:
 
 ## 📬 Contacto
 
+<p align="left">
+  <a href="https://wa.me/5493885714725?text=Hola%20Leandro,%20vi%20tu%20perfil%20de%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:murquiteleandro14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Leandromurquite">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+- 📱 **WhatsApp:** [+54 9 3885 71-4725](https://wa.me/5493885714725?text=Hola%20Leandro,%20vi%20tu%20perfil%20de%20GitHub)
 - 📧 **Correo:** [murquiteleandro14@gmail.com](mailto:murquiteleandro14@gmail.com)
 - 🐙 **GitHub:** [github.com/Leandromurquite](https://github.com/Leandromurquite)
+
+---
+
+## ☕ Apoyo / Donaciones
+
+Si aprecias mi trabajo o te resulta útil alguno de mis proyectos, puedes apoyarme a través de **Mercado Pago**:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Mercado_Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago" />
+</p>
+
+- 💳 **Transferencias por teléfono:** Al número `+54 9 3885 71-4725`
