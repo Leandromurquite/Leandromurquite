@@ -91,10 +91,14 @@ Tecnologías que estoy incorporando activamente y profundizando:
 
 ## ☕ Apoyo / Donaciones
 
-Si aprecias mi trabajo o te resulta útil alguno de mis proyectos, puedes apoyarme a través de **Mercado Pago**:
+Si aprecias mi trabajo o te resulta útil alguno de mis proyectos, puedes apoyarme a través de **Mercado Pago** (o cualquier billetera virtual / banco):
 
 <p align="left">
   <img src="https://img.shields.io/badge/Mercado_Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago" />
 </p>
 
-- 💳 **Transferencias por teléfono:** Al número `+54 9 3885 71-4725`
+| Datos de Transferencia | Información |
+| :--- | :--- |
+| **Alias** | `leandro.616.demo.mp` |
+| **Teléfono** | `+54 9 3885 71-4725` |
+| **Titular** | Leandro Murquite |
