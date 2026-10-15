@@ -82,5 +82,3 @@ Tecnologías que estoy incorporando activamente y profundizando:
     <img src="https://img.shields.io/badge/GitHub-Leandromurquite-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-- 📧 **Correo:** [murquiteleandro14@gmail.com](mailto:murquiteleandro14@gmail.com) &nbsp;&nbsp;•&nbsp;&nbsp; 📱 **WhatsApp:** [+54 9 3885 71-4725](https://wa.me/5493885714725?text=Hola%20Leandro,%20vi%20tu%20perfil%20de%20GitHub) &nbsp;&nbsp;•&nbsp;&nbsp; 🐙 **GitHub:** [github.com/Leandromurquite](https://github.com/Leandromurquite)
