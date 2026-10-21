@@ -82,3 +82,19 @@ Tecnologías que estoy incorporando activamente y profundizando:
     <img src="https://img.shields.io/badge/GitHub-Leandromurquite-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+
+---
+
+## ☕ Apoyo / Donaciones
+
+Si te resulta útil mi trabajo o deseas apoyar mis proyectos, puedes hacerlo directamente a través de **Mercado Pago**:
+
+<p align="left">
+  <a href="https://link.mercadopago.com.ar/leandromurquite" target="_blank">
+    <img src="https://img.shields.io/badge/Mercado_Pago-leandromurquite-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago" />
+  </a>
+</p>
+
+- 💳 **Link directo de pago:** [link.mercadopago.com.ar/leandromurquite](https://link.mercadopago.com.ar/leandromurquite)
+- 📌 **Alias:** `leandro.616.demo.mp`
